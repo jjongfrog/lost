@@ -1,0 +1,16 @@
+body{
+  background-color: #046de3;
+  background-image: url("../images/lostark.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.character {
+  width: 100%;
+  max-width: 364px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 40px;
+  
+}
