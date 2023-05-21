@@ -29,7 +29,7 @@ function nextQuestion(choiceNumber) {
 }
 
 function showResultPage() {
-  location.href = '/results.html?mbti=' + mbti
+  location.href = './results.html?mbti=' + mbti
 }
 
 choice1El.addEventListener('click', function () {
