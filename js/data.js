@@ -85,7 +85,7 @@ export const results = [
   {
     
     title: '도심뜨면 리트',
-    character: '/images/아르카나.png',
+    character: './images/아르카나.png',
     results: [
       '전압이 이쁨',
       '익숙해진다면 보장된 고점',
@@ -98,7 +98,7 @@ export const results = [
   },
   {
     title: '점화on',
-    character: '/images/점화.png',
+    character: './images/점화.png',
     results: [
       '순간 dps 최상위권 딜러!',
       '현시점 레이드 구조에선 어려운 듯!',
@@ -110,8 +110,8 @@ export const results = [
     backLoa: '/images/소서배경.jpg'
   },
   {
-    title: '현시점 점화',
-    character: '/images/소울이터.gif',
+    title: '현시점 점화 상위호환',
+    character: './images/소울이터.gif',
     results: [
       '신직업은 그냥 해라!',
       '특화캐릭임에도 쾌적함!',
@@ -125,7 +125,7 @@ export const results = [
   
   {
     title: '퐁퐁...',
-    character: '/images/교감.jpg',
+    character: './images/교감.jpg',
     results: [
       '개선 괜찮게 받은듯?',
       '기믹도 좋아짐',
@@ -139,7 +139,7 @@ export const results = [
   
   {
     title: '드디어 손에서 총을...',
-    character: '/images/건슬.jpg',
+    character: './images/건슬.jpg',
     results: [
       '난이도,세팅비 상당히 낮음',
       '한방딜이 생각보다 쎔',
@@ -154,7 +154,7 @@ export const results = [
  
   {
     title: '드디어 손에서 총을...',
-    character: '/images/건슬.jpg',
+    character: './images/건슬.jpg',
     results: [
       '치명이 섞여서 세팅비 저렴함!',
       '총 든 여캐 어케 참음?',
@@ -169,7 +169,7 @@ export const results = [
 
   {
     title: '그믐 소울이터',
-    character: '/images/소울이터.gif',
+    character: './images/소울이터.gif',
     
     results: [
       '신직업은 그냥 해라',
@@ -185,7 +185,7 @@ export const results = [
  
   {
     title: '영수증의 신',
-    character: '/images/버스트.jpg',
+    character: './images/버스트.jpg',
     results: [
       '진짜 한방',
       '성장체감 최상!',
@@ -200,7 +200,7 @@ export const results = [
  
   {
     title: '리퍼님? 가능합니다!',
-    character: '/images/리퍼.jpg',
+    character: './images/리퍼.jpg',
     results: [
       '정통 암살자!',
       '영수증 보는 맛이 있는 직업!',
@@ -214,7 +214,7 @@ export const results = [
   
   {
     title: '처단 슬레이어',
-    character: '/images/슬레.jpg',
+    character: './images/슬레.jpg',
     results: [
       '여버서커 어케 참음;',
       '젠더락은 늘 옳다',
@@ -228,7 +228,7 @@ export const results = [
   
   {
     title: '구닥다리 아덴 탈출',
-    character: '/images/인파.png',
+    character: './images/인파.png',
     results: [
       '개편되고 더 재밌어진듯',
       '남인파도 기대된다',
@@ -243,7 +243,7 @@ export const results = [
   
   {
     title: '본사 찾아갑니다',
-    character: '/images/창술.png',
+    character: './images/창술.png',
     results: [
       '만능 육각형 딜러!',
       '활처럼 휘었다...',
@@ -257,7 +257,7 @@ export const results = [
   
   {
     title: '피시방 아바타 분노통 돌려줘라',
-    character: '/images/슬레.jpg',
+    character: './images/슬레.jpg',
     results: [
       '진짜 좋은캐릭같음',
       '여자 버서커 어케 참음?',
@@ -272,7 +272,7 @@ export const results = [
 
   {
     title: '진짜 검사',
-    character: '/images/질풍.jpg',
+    character: './images/질풍.jpg',
     results: [
       '스킬이펙트 진짜 역대급 간지',
       '건데기 아닙니다!',
@@ -286,7 +286,7 @@ export const results = [
   
   {
     title: '블래이드 아니고 블레이드',
-    character: '/images/잔재.jpg',
+    character: './images/잔재.jpg',
     results: [
       '삼도류 여캐 ? 어케 참음 ?',
       '파티 선호도 최상위!',
@@ -300,7 +300,7 @@ export const results = [
   
   {
     title: '와다! 효! 쵸우!',
-    character: '/images/세맥.jpg',
+    character: './images/세맥.jpg',
     results: [
       '전압 너무 이쁨',
       '레이드 구조 최적화 직업',
@@ -315,7 +315,7 @@ export const results = [
 
   {
     title: '민국이 괴롭히지 마라',
-    character: '/images/두동.png',
+    character: '../images/두동.png',
     results: [
       '쉬운 난이도와 세팅',
       '원거리+타대+이동기',
@@ -329,7 +329,7 @@ export const results = [
   
   {
     title: '파폭 쌀먹 대답',
-    character: '/images/블래 파폭.png',
+    character: './images/블래 파폭.png',
     results: [
       '개꿀잼 휠체어',
       '구조개편도 나름 괜찮게 받은듯?',
@@ -343,7 +343,7 @@ export const results = [
   
   {
     title: '기술스카는 웃고있다',
-    character: '/images/기술.jpg',
+    character: './images/기술.jpg',
     results: [
       '유산에 가려진 진짜 낭만',
       '인구수가 가장 적은 직업',
@@ -357,7 +357,7 @@ export const results = [
   
   {
     title: '파폭 쌀먹 대답',
-    character: '/images/블래 파폭.png',
+    character: './images/블래 파폭.png',
     results: [
       '중화기 낭만 어케 참음?',
       '낮은 세팅비,낮은 난이도',
@@ -371,7 +371,7 @@ export const results = [
   
   {
     title: '데헌해야겠는걸~ 핸드거너해야겠는걸~ ',
-    character: '/images/핸드거너.png',
+    character: './images/핸드거너.png',
     results: [
       '무난한 캐릭 그 자체',
       '흰글씨 볼 일이 거의 없음!',
@@ -385,7 +385,7 @@ export const results = [
   
   {
     title: '제 검까활 보실래요?',
-    character: '/images/죽습.JPG',
+    character: './images/죽습.JPG',
     results: [
       '약하다 약하다 하니 진짜 약한줄 아네?',
       '님들 검까활같은 아바타 있음?',
@@ -399,7 +399,7 @@ export const results = [
   
   {
     title: '원정대300렙 쥐바타',
-    character: '/images/쥐바타.jpg',
+    character: './images/쥐바타.jpg',
     results: [
       '샷건 낭만 그 자체',
       '게임사피셜 높은 피해량을 낼 수 있게 만든 직업',
@@ -413,7 +413,7 @@ export const results = [
   
   {
     title: '니나브 세우라제 일격스커',
-    character: '/images/스커.jpg',
+    character: './images/스커.jpg',
     results: [
       '간지.',
       '정형화된 사이클',
@@ -427,7 +427,7 @@ export const results = [
   
   {
     title: '전태특징.gif 단단함...',
-    character: '/images/전태.JPG',
+    character: './images/전태.JPG',
     results: [
       '파티선호도 부동의 1티어',
       '백스탭....',
@@ -441,7 +441,7 @@ export const results = [
   
   {
     title: '대지술사 아닙니다',
-    character: '/images/광기.jpg',
+    character: './images/광기.jpg',
     results: [
       '대검 버서커 ?  이걸 어케참음 ?',
       '낭만 그자체',
@@ -455,7 +455,7 @@ export const results = [
   
   {
     title: '살아있는 웃음벨',
-    character: '/images/중수.jpg',
+    character: './images/중수.jpg',
     results: [
       '한번도 안해본사람은 있어도 한번만 해본 사람은 없다.',
       '보석,트포요구치 낮음',
@@ -469,7 +469,7 @@ export const results = [
   
   {
     title: '풀피입니다',
-    character: '/images/버서커.jpg',
+    character: './images/버서커.jpg',
     results: [
       '진짜 버서커를 플레이 하는 느낌!',
       'pvp에서 상당히 좋음!',
@@ -483,7 +483,7 @@ export const results = [
   
   {
     title: '왜 디트만?',
-    character: '/images/분망.jpg',
+    character: './images/분망.jpg',
     results: [
       '원조 한방딜',
       '숨어있는 1티어 딜러',
@@ -497,7 +497,7 @@ export const results = [
   
   {
     title: '숨지마라! 벌써 화요일이네',
-    character: '/images/유산.jpg',
+    character: './images/유산.jpg',
     results: [
       '아이언맨 낭만 그 자체',
       '가성비 캐릭의 대명사',
@@ -510,7 +510,7 @@ export const results = [
   },
   {
     title: '저 일격아니고 오의인데요',
-    character: '/images/오의스커.jpg',
+    character: './images/오의스커.jpg',
     results: [
       '스타일리쉬 남자 격투가 !',
       '낮은 난이도,세팅비!',
@@ -523,7 +523,7 @@ export const results = [
   },
   {
     title: '넬라 굿',
-    character: '/images/고기.jpg',
+    character: './images/고기.jpg',
     results: [
       '파티선호도 부동의 1티어',
       '백스텝...',
