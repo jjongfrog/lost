@@ -118,7 +118,7 @@ export const results = [
       '스킬 모션 역대급!'
     ],
     jobs: ['만월 소울이터'],
-    lectureImg: 'https://img.youtube.com/vi/7cx9vLTWKhs?si=0_TeahHWE7IWeqE1/0.jpg',
+    lectureImg: 'https://img.youtube.com/vi/7cx9vLTWKhs/0.jpg',
     lectureUrl: 'https://youtu.be/7cx9vLTWKhs?si=0_TeahHWE7IWeqE1',
     backLoa: '/images/소울이터배경.jpg'
   },
@@ -177,7 +177,7 @@ export const results = [
       '조작이 신직업치곤 쉬운편'
     ],
     jobs: ['그믐 소울이터'],
-    lectureImg: 'https://img.youtube.com/vi/m44toslL6OQ?si=cphDeBMVfIuoxV1p/0.jpg',
+    lectureImg: 'https://img.youtube.com/vi/m44toslL6OQ/0.jpg',
     lectureUrl: 'https://youtu.be/m44toslL6OQ?si=cphDeBMVfIuoxV1p',
     backLoa: '/images/소울이터배경.jpg'
   },
@@ -192,7 +192,7 @@ export const results = [
       '스택 쌓는 맛'
     ],
     jobs: ['버스트 블레이드'],
-    lectureImg: 'https://img.youtube.com/vi/oZIwb6vSENY?si=alZaNkz9xXXdmRQd/0.jpg',
+    lectureImg: 'https://img.youtube.com/vi/oZIwb6vSENY/0.jpg',
     lectureUrl: 'https://youtu.be/oZIwb6vSENY?si=alZaNkz9xXXdmRQd',
     backLoa: '/images/블레배경.jpg'
   },
@@ -221,7 +221,7 @@ export const results = [
       '이 직업하면 손해는 안봄'
     ],
     jobs: ['처단자 슬레이어'],
-    lectureImg: 'https://img.youtube.com/vi/50cK4r7Ajj8?si=_5cCdVh_iZOkCD8C/0.jpg',
+    lectureImg: 'https://img.youtube.com/vi/50cK4r7Ajj8/0.jpg',
     lectureUrl: 'https://youtu.be/50cK4r7Ajj8?si=_5cCdVh_iZOkCD8C',
     backLoa: '/images/슬레이어배경.jpg'
   },
@@ -235,7 +235,7 @@ export const results = [
       '신속이 주류인 몇안되는 직업!'
     ],
     jobs: ['체술 인파이터'],
-    lectureImg: 'https://img.youtube.com/vi/124njxH-Pnc?si=nTsQ3qoaK5AJe8qL/0.jpg',
+    lectureImg: 'https://img.youtube.com/vi/124njxH-Pnc/0.jpg',
     lectureUrl: 'https://youtu.be/124njxH-Pnc?si=nTsQ3qoaK5AJe8qL',
     backLoa: '/images/인파배경.jpg'
   },
@@ -264,7 +264,7 @@ export const results = [
       '앞으로 아바타는 잘 내줄거야...'
     ],
     jobs: ['포식 슬레이어'],
-    lectureImg: 'https://img.youtube.com/vi/XTPHAoQNmRs?si=loQaCcf1T45LGbgS/0.jpg',
+    lectureImg: 'https://img.youtube.com/vi/XTPHAoQNmRs/0.jpg',
     lectureUrl: 'https://youtu.be/XTPHAoQNmRs?si=loQaCcf1T45LGbgS',
     backLoa: '/images/슬레이어배경.jpg'
     
@@ -293,7 +293,7 @@ export const results = [
       '재미는 진짜 원탑'
     ],
     jobs: ['잔재된기운 블레이드'],
-    lectureImg: 'https://img.youtube.com/vi/COuyVD0kX5c?si=8jllsedM5lxGwuiA/0.jpg',
+    lectureImg: 'https://img.youtube.com/vi/COuyVD0kX5c/0.jpg',
     lectureUrl: 'https://youtu.be/COuyVD0kX5c?si=8jllsedM5lxGwuiA',
     backLoa: '/images/블레배경.jpg'
   },
