@@ -94,7 +94,7 @@ export const results = [
     jobs: ['아르카나'],
     lectureImg: 'https://img.youtube.com/vi/8CwXC6SozAI/0.jpg',
     lectureUrl: 'https://youtu.be/8CwXC6SozAI',
-    backLoa: '/images/아르카나배경.jpg'
+    backLoa: './images/아르카나배경.jpg'
   },
   {
     title: '점화on',
@@ -107,7 +107,7 @@ export const results = [
     jobs: ['점화 소서리스'],
     lectureImg: 'https://img.youtube.com/vi/YTYx1vFDrOg/0.jpg',
     lectureUrl: 'https://youtu.be/YTYx1vFDrOg',
-    backLoa: '/images/소서배경.jpg'
+    backLoa: './images/소서배경.jpg'
   },
   {
     title: '현시점 점화 상위호환',
@@ -120,7 +120,7 @@ export const results = [
     jobs: ['만월 소울이터'],
     lectureImg: 'https://img.youtube.com/vi/7cx9vLTWKhs/0.jpg',
     lectureUrl: 'https://youtu.be/7cx9vLTWKhs?si=0_TeahHWE7IWeqE1',
-    backLoa: '/images/소울이터배경.jpg'
+    backLoa: './images/소울이터배경.jpg'
   },
   
   {
@@ -134,7 +134,7 @@ export const results = [
     jobs: ['상급소환사 서머너'],
     lectureImg: 'https://img.youtube.com/vi/2lBrUwpK7_8/0.jpg',
     lectureUrl: 'https://youtu.be/2lBrUwpK7_8',
-    backLoa: '/images/서머너배경.jpg'
+    backLoa: './images/서머너배경.jpg'
   },
   
   {
@@ -148,7 +148,7 @@ export const results = [
     jobs: ['사냥의시간 건슬링어'],
     lectureImg: 'https://img.youtube.com/vi/FJMCgRcqr_Q/0.jpg',
     lectureUrl: 'https://youtu.be/FJMCgRcqr_Q',
-    backLoa: '/images/건슬배경.jpg'
+    backLoa: './images/건슬배경.jpg'
   },
   
  
@@ -163,7 +163,7 @@ export const results = [
     jobs: ['피스메이커 건슬링어'],
     lectureImg: 'https://img.youtube.com/vi/DUlbCZb9dVE/0.jpg',
     lectureUrl: 'https://youtu.be/DUlbCZb9dVE',
-    backLoa: '/images/건슬배경.jpg'
+    backLoa: './images/건슬배경.jpg'
   },
   
 
@@ -179,7 +179,7 @@ export const results = [
     jobs: ['그믐 소울이터'],
     lectureImg: 'https://img.youtube.com/vi/m44toslL6OQ/0.jpg',
     lectureUrl: 'https://youtu.be/m44toslL6OQ?si=cphDeBMVfIuoxV1p',
-    backLoa: '/images/소울이터배경.jpg'
+    backLoa: './images/소울이터배경.jpg'
   },
   
  
@@ -194,7 +194,7 @@ export const results = [
     jobs: ['버스트 블레이드'],
     lectureImg: 'https://img.youtube.com/vi/oZIwb6vSENY/0.jpg',
     lectureUrl: 'https://youtu.be/oZIwb6vSENY?si=alZaNkz9xXXdmRQd',
-    backLoa: '/images/블레배경.jpg'
+    backLoa: './images/블레배경.jpg'
   },
   
  
@@ -209,7 +209,7 @@ export const results = [
     jobs: ['갈증 리퍼'],
     lectureImg: 'https://img.youtube.com/vi/YRuQbUdu8KM/0.jpg',
     lectureUrl: 'https://youtu.be/YRuQbUdu8KM',
-    backLoa: '/images/리퍼배경.jpg'
+    backLoa: './images/리퍼배경.jpg'
   },
   
   {
@@ -223,7 +223,7 @@ export const results = [
     jobs: ['처단자 슬레이어'],
     lectureImg: 'https://img.youtube.com/vi/50cK4r7Ajj8/0.jpg',
     lectureUrl: 'https://youtu.be/50cK4r7Ajj8?si=_5cCdVh_iZOkCD8C',
-    backLoa: '/images/슬레이어배경.jpg'
+    backLoa: './images/슬레이어배경.jpg'
   },
   
   {
@@ -237,7 +237,7 @@ export const results = [
     jobs: ['체술 인파이터'],
     lectureImg: 'https://img.youtube.com/vi/124njxH-Pnc/0.jpg',
     lectureUrl: 'https://youtu.be/124njxH-Pnc?si=nTsQ3qoaK5AJe8qL',
-    backLoa: '/images/인파배경.jpg'
+    backLoa: './images/인파배경.jpg'
   },
   
   
@@ -252,7 +252,7 @@ export const results = [
     jobs: ['절정 창술사'],
     lectureImg: 'https://img.youtube.com/vi/1CBumX4f2-Q/0.jpg',
     lectureUrl: 'https://youtu.be/1CBumX4f2-Q',
-    backLoa: '/images/창술배경.jpg'
+    backLoa: './images/창술배경.jpg'
   },
   
   {
@@ -266,7 +266,7 @@ export const results = [
     jobs: ['포식 슬레이어'],
     lectureImg: 'https://img.youtube.com/vi/XTPHAoQNmRs/0.jpg',
     lectureUrl: 'https://youtu.be/XTPHAoQNmRs?si=loQaCcf1T45LGbgS',
-    backLoa: '/images/슬레이어배경.jpg'
+    backLoa: './images/슬레이어배경.jpg'
     
   },
 
@@ -281,7 +281,7 @@ export const results = [
     jobs: ['질풍노도 기상술사'],
     lectureImg: 'https://img.youtube.com/vi/H1EqXOZ1fuc/0.jpg',
     lectureUrl: 'https://youtu.be/H1EqXOZ1fuc',
-    backLoa: '/images/기상배경.jpg'
+    backLoa: './images/기상배경.jpg'
   },
   
   {
@@ -295,7 +295,7 @@ export const results = [
     jobs: ['잔재된기운 블레이드'],
     lectureImg: 'https://img.youtube.com/vi/COuyVD0kX5c/0.jpg',
     lectureUrl: 'https://youtu.be/COuyVD0kX5c?si=8jllsedM5lxGwuiA',
-    backLoa: '/images/블레배경.jpg'
+    backLoa: './images/블레배경.jpg'
   },
   
   {
@@ -309,7 +309,7 @@ export const results = [
     jobs: ['세맥타통 기공사'],
     lectureImg: 'https://img.youtube.com/vi/tj6F43Qow8Y/sddefault.jpg',
     lectureUrl: 'https://youtu.be/tj6F43Qow8Y',
-    backLoa: '/images/기공배경.jpg'
+    backLoa: './images/기공배경.jpg'
   },
   
 
@@ -324,7 +324,7 @@ export const results = [
     jobs: ['두번째 동료 호크아이'],
     lectureImg: 'https://img.youtube.com/vi/qhrZE5dva70/0.jpg',
     lectureUrl: 'https://youtu.be/qhrZE5dva70',
-    backLoa: '/images/호크배경.jpg'
+    backLoa: './images/호크배경.jpg'
   },
   
   {
@@ -338,7 +338,7 @@ export const results = [
     jobs: ['포격강화 블래스터'],
     lectureImg: 'https://img.youtube.com/vi/8KgrT8JzD08/0.jpg',
     lectureUrl: 'https://youtu.be/8KgrT8JzD08',
-    backLoa: '/images/블래배경.jpg'
+    backLoa: './images/블래배경.jpg'
   },
   
   {
@@ -352,7 +352,7 @@ export const results = [
     jobs: ['아르데타인의 기술 스카우터'],
     lectureImg: 'https://img.youtube.com/vi/bbfoYkPeTvo/0.jpg',
     lectureUrl: 'https://youtu.be/bbfoYkPeTvo',
-    backLoa: '/images/스카배경.jpg'
+    backLoa: './images/스카배경.jpg'
   },
   
   {
@@ -366,7 +366,7 @@ export const results = [
     jobs: ['화력강화 블래스터'],
     lectureImg: 'https://img.youtube.com/vi/7m4Zw1wFMs8/0.jpg',
     lectureUrl: 'https://youtu.be/7m4Zw1wFMs8',
-    backLoa: '/images/블래배경.jpg'
+    backLoa: './images/블래배경.jpg'
   },
   
   {
@@ -380,7 +380,7 @@ export const results = [
     jobs: ['핸드거너 데빌헌터'],
     lectureImg: 'https://img.youtube.com/vi/VwZ2zp77pAM/0.jpg',
     lectureUrl: 'https://youtu.be/VwZ2zp77pAM',
-    backLoa: '/images/데헌배경.jpg'
+    backLoa: './images/데헌배경.jpg'
   },
   
   {
@@ -394,7 +394,7 @@ export const results = [
     jobs: ['죽음의 습격 호크아이'],
     lectureImg: 'https://img.youtube.com/vi/kyuwKsuiV5g/0.jpg',
     lectureUrl: 'https://youtu.be/kyuwKsuiV5g',
-    backLoa: '/images/호크배경.jpg'
+    backLoa: './images/호크배경.jpg'
   },
   
   {
@@ -408,7 +408,7 @@ export const results = [
     jobs: ['강화무기 데빌헌터'],
     lectureImg: 'https://img.youtube.com/vi/WYvdCLSN9u0/0.jpg',
     lectureUrl: 'https://youtu.be/WYvdCLSN9u0',
-    backLoa: '/images/데헌배경.jpg'
+    backLoa: './images/데헌배경.jpg'
   },
   
   {
@@ -422,7 +422,7 @@ export const results = [
     jobs: ['일격필살 스트라이커'],
     lectureImg: 'https://img.youtube.com/vi/7UsEPb4CZgQ/0.jpg',
     lectureUrl: 'https://youtu.be/7UsEPb4CZgQ',
-    backLoa: '/images/스커배경.jpg'
+    backLoa: './images/스커배경.jpg'
   },
   
   {
@@ -436,7 +436,7 @@ export const results = [
     jobs: ['전투태세 워로드'],
     lectureImg: 'https://img.youtube.com/vi/gkSTfymGyig/0.jpg',
     lectureUrl: 'https://youtu.be/gkSTfymGyig',
-    backLoa: '/images/워로드배경.jpg'
+    backLoa: './images/워로드배경.jpg'
   },
   
   {
@@ -450,7 +450,7 @@ export const results = [
     jobs: ['광전사의 비기 버서커'],
     lectureImg: 'https://img.youtube.com/vi/3eNxq13kdGI/0.jpg',
     lectureUrl: 'https://youtu.be/3eNxq13kdGI',
-    backLoa: '/images/버서커배경.jpg'
+    backLoa: './images/버서커배경.jpg'
   },
   
   {
@@ -464,7 +464,7 @@ export const results = [
     jobs: ['중력수련 디스트로이어'],
     lectureImg: 'https://img.youtube.com/vi/C1JA4HblBuU/0.jpg',
     lectureUrl: 'https://youtu.be/C1JA4HblBuU',
-    backLoa: '/images/디트배경.jpg'
+    backLoa: './images/디트배경.jpg'
   },
   
   {
@@ -478,7 +478,7 @@ export const results = [
     jobs: ['광기 버서커'],
     lectureImg: 'https://img.youtube.com/vi/x5qh0QpnfVI/0.jpg',
     lectureUrl: 'https://youtu.be/x5qh0QpnfVI',
-    backLoa: '/images/버서커배경.jpg'
+    backLoa: './images/버서커배경.jpg'
   },
   
   {
@@ -492,7 +492,7 @@ export const results = [
     jobs: ['분노의망치 디스트로이어'],
     lectureImg: 'https://img.youtube.com/vi/WZ5Bzrm9AL8/0.jpg',
     lectureUrl: 'https://youtu.be/WZ5Bzrm9AL8',
-    backLoa: '/images/다트배경.jpg'
+    backLoa: './images/다트배경.jpg'
   },
   
   {
@@ -506,7 +506,7 @@ export const results = [
     jobs: ['진화의 유산 스카우터'],
     lectureImg: 'https://img.youtube.com/vi/6cef2QhfjJA/0.jpg',
     lectureUrl: 'https://youtu.be/6cef2QhfjJA',
-    backLoa: '/images/스카배경.jpg'
+    backLoa: './images/스카배경.jpg'
   },
   {
     title: '저 일격아니고 오의인데요',
@@ -519,7 +519,7 @@ export const results = [
     jobs: ['오의난무 스트라이커'],
     lectureImg: 'https://img.youtube.com/vi/JoaqrA-HxVw/0.jpg',
     lectureUrl: 'https://youtu.be/JoaqrA-HxVw',
-    backLoa: '/images/스커배경.jpg'
+    backLoa: './images/스커배경.jpg'
   },
   {
     title: '넬라 굿',
@@ -532,7 +532,7 @@ export const results = [
     jobs: ['고독한 기사 워로드'],
     lectureImg: 'https://img.youtube.com/vi/Je5dJYhbX1c/0.jpg',
     lectureUrl: 'https://youtu.be/Je5dJYhbX1c',
-    backLoa: '/images/워로드배경.jpg'
+    backLoa: './images/워로드배경.jpg'
   },
   
 
