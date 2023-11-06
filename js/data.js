@@ -4,7 +4,7 @@ export const questions = [
     question: 'RPG게임을 할 때<br>선호하는 캐릭터 성별은?',
     choices: [
       { text: 'RPG는 무조건 여캐지', value: 'b' },
-      { text: '컷신떄문에 남캐함', value: 'a' }
+      { text: '컷신때문에 남캐함', value: 'a' }
     ]
   },
   {
