@@ -250,8 +250,8 @@ export const results = [
       '500억 !'
     ],
     jobs: ['절정 창술사'],
-    lectureImg: 'https://img.youtube.com/vi/1CBumX4f2-Q/0.jpg',
-    lectureUrl: 'https://youtu.be/1CBumX4f2-Q',
+    lectureImg: 'https://img.youtube.com/vi/lWymGqy8dEM/0.jpg',
+    lectureUrl: 'https://youtu.be/lWymGqy8dEM?si=Ycvv3M5J37bP4pFM',
     backLoa: './images/창술배경.jpg'
   },
   
